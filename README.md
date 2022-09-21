@@ -3,10 +3,9 @@
 
 Programa que ayuda a la busqueda de tu proximo auto
 
+
 Version del proyecto: 1.1
-
 Autor: jhcanete - Jonatan Horaccio Cañete
-
 Contacto: horacioce5@gmail.com
 
 ![image](https://user-images.githubusercontent.com/107326085/191488715-ae46b698-1de0-444e-a656-10ca2f66340f.png)
