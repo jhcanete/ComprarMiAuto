@@ -17,6 +17,6 @@ Este programa permite, a partir de un archivo csv, buscar un vehículo o una lis
 
 A continuacion agrego un diagrama de la finalidad del programa
 
-![image](https://user-images.githubusercontent.com/107326085/191493494-b270a72c-139a-44d8-903a-3efb04ae3a7e.png)
+![image](https://user-images.githubusercontent.com/107326085/191506742-7bff7587-da63-4dd5-b193-8936296ef51e.png)
 
 Espero que les agrade el programa... Muchas Gracias!
