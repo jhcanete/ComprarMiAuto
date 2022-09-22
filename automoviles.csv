@@ -1,7 +1,7 @@
 Orden;marca;tipo_combustible;num_puertas;estilo;Precio USD ;Precio ARG
-1;alfa-romeo;gasoil;tres;convertible;13495;1808330
-2;alfa-romeo;gasoil;tres;convertible;16500;2211000
-3;alfa-romeo;gasoil;tres;hatchback;16500;2211000
+1;alfa romeo;gasoil;tres;convertible;13495;1808330
+2;alfa romeo;gasoil;tres;convertible;16500;2211000
+3;alfa romeo;gasoil;tres;hatchback;16500;2211000
 4;audi;gasoil;cinco;sedan;13950;1869300
 5;audi;gasoil;cinco;sedan;17450;2338300
 6;audi;gasoil;tres;sedan;15250;2043500
@@ -18,7 +18,7 @@ Orden;marca;tipo_combustible;num_puertas;estilo;Precio USD ;Precio ARG
 17;bmw;gasoil;tres;sedan;41315;5536210
 18;bmw;gasoil;cinco;sedan;36880;4941920
 19;chevrolet;gasoil;tres;hatchback;5151;690234
-20;chevrolet;gasoil;tres;hatchback;6295;843530
+20;chevrolet;nafta;tres;hatchback;6295;843530
 21;chevrolet;gasoil;cinco;sedan;6575;881050
 22;dodge;gasoil;tres;hatchback;5572;746648
 23;dodge;gasoil;tres;hatchback;6377;854518
@@ -26,7 +26,7 @@ Orden;marca;tipo_combustible;num_puertas;estilo;Precio USD ;Precio ARG
 25;dodge;gasoil;cinco;hatchback;6229;834686
 26;dodge;gasoil;cinco;sedan;6692;896728
 27;dodge;gasoil;cinco;sedan;7609;1019606
-28;dodge;gasoil;;sedan;8558;1146772
+28;dodge;gasoil;cinco;sedan;8558;1146772
 29;dodge;gasoil;cinco;wagon;8921;1195414
 30;dodge;gasoil;tres;hatchback;12964;1737176
 31;honda;gasoil;tres;hatchback;6479;868186
@@ -62,7 +62,7 @@ Orden;marca;tipo_combustible;num_puertas;estilo;Precio USD ;Precio ARG
 61;mazda;gasoil;cinco;sedan;8495;1138330
 62;mazda;gasoil;tres;hatchback;10595;1419730
 63;mazda;gasoil;cinco;sedan;10245;1372830
-64;mazda;nafta;;sedan;10795;1446530
+64;mazda;nafta;cinco;sedan;10795;1446530
 65;mazda;gasoil;cinco;hatchback;11245;1506830
 66;mazda;gasoil;cinco;sedan;18280;2449520
 67;mazda;nafta;cinco;sedan;18344;2458096
@@ -107,8 +107,8 @@ Orden;marca;tipo_combustible;num_puertas;estilo;Precio USD ;Precio ARG
 106;nissan;gasoil;tres;hatchback;19699;2639666
 107;nissan;gasoil;tres;hatchback;18399;2465466
 108;peugot;gasoil;cinco;sedan;11900;1594600
-109;peugot;nafta;cinco;sedan;13200;1768800
-110;peugot;gasoil;cinco;wagon;12440;1666960
+109;peugot;nafta;tres;sedan;13200;1768800
+110;peugot;gasoil;tres;wagon;12440;1666960
 111;peugot;nafta;cinco;wagon;13860;1857240
 112;peugot;gasoil;cinco;sedan;15580;2087720
 113;peugot;nafta;cinco;sedan;16900;2264600
@@ -204,3 +204,7 @@ Orden;marca;tipo_combustible;num_puertas;estilo;Precio USD ;Precio ARG
 203;volvo;gasoil;cinco;sedan;21485;2878990
 204;volvo;nafta;cinco;sedan;22470;3010980
 205;volvo;gasoil;cinco;sedan;22625;3031750
+206;fiat;nafta;tres;sedan;25360;2500000
+207;fiat;nafta;cinco;sedan;30652;3050000
+208;fiat;gasoil;tres;sedan;25360;2879522
+209;fiat;gasoil;cinco;sedan;32000;3265489
